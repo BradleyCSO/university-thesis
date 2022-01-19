@@ -1,0 +1,7 @@
+from widget.AnalysisWidget import AnalysisWidget
+from widget.CurrencyDisplay import CurrencyDisplay
+from widget.GeometryRestoreWidget import GeometryRestoreWidget
+from widget.Launcher import Launcher
+from widget.LoadingWidget import LoadingWidget
+from widget.StockTimeSeriesDisplay import StockTimeSeriesDisplay
+from widget.LinearTestWidget import LinearTestWidget
